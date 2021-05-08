@@ -1,1 +1,1 @@
-# JS-Hw8
+# GoIT JavaScript Course Homework
